@@ -3,6 +3,9 @@
 - A jupyter notebook file demo to manipulate the simulated survey dataset with 1000 records.
 - It creates indicators to track the prevailing direction of economic trends and business sentiment in different industries in specific region.
 
+- The intuition is similar to Purchasing Managers' Index, consisting of a diffusion index that summarizes whether market conditions, as viewed by purchasing managers, are expanding, staying the same, or contracting.
+https://www.investopedia.com/terms/p/pmi.asp
+
 **5 Industry**
 1) Manufacturing & Trading	
 2) Retail & Wholesale	
